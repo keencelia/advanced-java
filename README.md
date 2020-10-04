@@ -1,4 +1,4 @@
-# Zaawansowane Programowanie Obiektowe i Funcyjne - Java
+# Zaawansowane Programowanie Obiektowe i Funkcyjne - Java
 ## MiNI PW, Zima 2020/2021
 
 #### Przydatne do poruszania się po środowisku IntelliJ IDEA

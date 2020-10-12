@@ -9,7 +9,7 @@ Zmień  klasę GaussianData na DistributionData tak aby obsługiwała również 
 Zaprojektuj klasę DistributionData aby pracowała w swoim własnym wątku, zwracając dane (po jednym punkcie) w odpowiednim (dla programowania wielowątkowego) buforze. Zaprojektuj bufor tak aby czytający blokował się gdy nie ma danych, a piszący gdy bufor jest pełny. Zacznij z buforem o rozmiarze 100.
 
 ### Zadanie 3.
-Dodaj kod w klasie DistributionData do zapisywania danych do pliku tekstowego, w dwóch kolumnach z nagłówkiem: 
+Dodaj kod w klasie DistributionData do zapisywania danych do pliku tekstowego, w dwóch kolumnach z nagłówkiem:  
 x y  
 -5.0 0.0  
 ...  

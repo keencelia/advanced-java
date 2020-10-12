@@ -10,11 +10,11 @@ Zaprojektuj klasę DistributionData aby pracowała w swoim własnym wątku, zwra
 
 ### Zadanie 3.
 Dodaj kod w klasie DistributionData do zapisywania danych do pliku tekstowego, w dwóch kolumnach z nagłówkiem: 
-x y
--5.0 0.0
-...
-0.0 0.40
-...
+x y  
+-5.0 0.0  
+...  
+0.0 0.40  
+...  
 
 Zwróć uwagę na zaokrąglenia liczb rzeczywistych. 
 

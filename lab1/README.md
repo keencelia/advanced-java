@@ -18,6 +18,7 @@ Strumienie, oraz elementy grafiki. Do grafiki użyjemy JavaFX, ale trzeba ten pa
 
 ### Zadanie 3.
 Narysuj standardową krzywą Gaussa w przedziale (-10,10). Skorzystaj z pliku LineGraphics.java
+Zaimplementuj klasę GaussianData uzywając klasy z biblioteki Apache Commons Math do obliczenia wartości rozkładu Gaussa (normalnego) .
 
 
 ## Wskazówki

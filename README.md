@@ -1,5 +1,5 @@
 # Zaawansowane Programowanie Obiektowe i Funkcyjne - Java
-## MiNI PW, Zima 2020/2021
+## MiNI PW, Zima 2021/2022
 
 #### Przydatne do poruszania się po środowisku IntelliJ IDEA
 - Sktóry klawiaturowe - https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
@@ -8,7 +8,8 @@
 
 
 #### Przydatne linki
-- Java API - https://docs.oracle.com/javase/9/docs/api/index.html?overview-summary.html
+- Java API Friendly - https://docs.oracle.com/javase/9/docs/api/index.html?overview-summary.html
+- Java API Latest - https://docs.oracle.com/en/java/javase/16/docs/api/index.html
 - Dziedziczenie - opis na Wikipedia (teoria) - https://pl.wikipedia.org/wiki/Dziedziczenie_%28programowanie%29
 - Dziedziczenie - tutorial od Oracle - https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
 - Apache Commons Math - http://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/index.html

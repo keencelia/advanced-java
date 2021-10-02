@@ -1,4 +1,4 @@
-# 2020/2021 - Lab2 - Multithreaded programming, Generics, Files
+# 2021/2022 - Lab2 - Multithreaded programming, Generics, Files
 
 Rozwijamy zadanie z lab1
 

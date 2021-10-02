@@ -1,4 +1,4 @@
-# 2020/2021 - Lab1 - IntelliJ, nowe pakiety, przypomnienie Javy.
+# 2021/2022 - Lab1 - IntelliJ, nowe pakiety, przypomnienie Javy.
 
 ### Zadanie 1.
 Dodaj pakiety do IntelliJ, wykorzystamy je w kolejnych zadaniach 

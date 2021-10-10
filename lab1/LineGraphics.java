@@ -18,9 +18,9 @@ public class LineGraphics extends Application {
         NumberAxis yAxis = new NumberAxis(0,0.5,0.01);
         yAxis.setLabel("y");
 
-        LineChart lineChart = new LineChart(xAxis, yAxis);
+        LineChart<Number, Number> lineChart = new LineChart<Number, Number>(xAxis, yAxis);
 
-        XYChart.Series series = new XYChart.Series();
+        XYChart.Series<Number, Number> series = new XYChart.Series<Number, Number>();
         series.setName("Gaussian distribution");
 
 	double mean = 0.0; double sd = 1.0;
@@ -32,7 +32,7 @@ public class LineGraphics extends Application {
         List <Tuple2 <Double,Double>> list = data.points(leftbound, rightbound, size);
 
         for (int i = 0; i < size; i++) {
-            series.getData().add(new XYChart.Data(list.get(i)._1, list.get(i)._2));
+            series.getData().add(new XYChart.Data<Number, Number>(list.get(i)._1, list.get(i)._2));
         }
 
         lineChart.getData().add(series);

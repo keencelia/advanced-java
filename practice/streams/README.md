@@ -21,7 +21,7 @@ Napisz klasę BigMatrixUtil, która zapewni odpowiednią strukturę danych dla d
 - obliczenie średniej dowolnej kolumny  
 - obliczenie wariancji dowolnej kolumny  
 - obliczenie macierzy kowariancji X<sup>T</sup>X, gdzie X jest wejściową macierzą    
-- obliczenie macierzy korelacji (Cov<sub>xy</sub>/var<sub>x</sub>var<sub>y</sub>), gdzie x i y to dowolne kolumny  
+- obliczenie macierzy korelacji (cov<sub>xy</sub>/sqrt(var<sub>x</sub>)sqrt(var<sub>y</sub>)), gdzie x i y to dowolne kolumny  
 
 
 

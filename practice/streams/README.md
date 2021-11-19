@@ -1,7 +1,7 @@
 ## 2021/2022 - Zadanie ćwiczeniowe - Programowanie strumieniowe 
 
 Twoim zadaniem jest napisanie metod operujących na dużych macierzach, które mogą być rozproszonych wierszami (tzw. sharding).  W takim przypadku chcemy mieć dostęp do strumienia wierszy. (np. Spark zapewnia taki dostęp przy pomocy RDD).     
-Wczytaj dołączony plik danych, po rozpakowaniu. Jest to bardzo duży plik więc wczytaj liniami tylko tyle ile udźwignie Twój system (ale aby była to wielokrotność 200 linii).  
+Wczytaj dołączony plik danych, po rozpakowaniu. Jest to bardzo duży plik więc wczytaj liniami tylko tyle ile udźwignie Twój system (ale aby była to wielokrotność 200 linii). Po namyśle dodałam mniejszy plik subset.csv, można z niego skorzystać.   
 
 Dane opisują zachowanie osobników w stadzie, każda grupa liczy 200 osobników (numer grupy to pierwsza kolumna), ostatnia kolumna wypisuje czy stado porusza się w sposób zsynchronizowany czy nie (0/1).  
 

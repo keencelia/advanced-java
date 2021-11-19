@@ -22,11 +22,13 @@ Napisz klasę BigMatrixUtil, która zapewni odpowiednią strukturę danych dla d
 - obliczenie wariancji dowolnej kolumny  
 - obliczenie macierzy kowariancji X<sup>T</sup>X, gdzie X jest wejściową macierzą    
 - obliczenie macierzy korelacji (Cov<sub>xy</sub>/var<sub>x</sub>var<sub>y</sub>), gdzie x i y to dowolne kolumny  
-  
 
-- Używając narzędzi klasy BigMatrixUtil policz macierz kowariancji oraz korelacji dla wartości wczytanej macierzy bez uwzględnienia pierwszej i ostatniej kolumny.  
-- Policz średnią prędkość dla każdej grupy, (policz prędkość jako jeden wektor)  
-- Policz średnią odległość między osobnikami i wariancję dla wszystkich group zsynchronizowanych i niezsynchronizowanych (ostatnia kolumna), podaj wynik.  
+
+
+Używając narzędzi klasy BigMatrixUtil policz:
+- macierz kowariancji oraz korelacji dla wartości wczytanej macierzy bez uwzględnienia pierwszej i ostatniej kolumny.  
+- średnią prędkość dla każdej grupy, (policz prędkość jako jeden wektor)  
+- średnią odległość między osobnikami i wariancję dla wszystkich group zsynchronizowanych i niezsynchronizowanych (ostatnia kolumna), podaj wynik.  
 
 Metody powinny być zaimplementowane przy pomocy strumieni, unikając używania FOR, WHILE, IF.  
 

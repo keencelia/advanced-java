@@ -1,4 +1,4 @@
-# 2020/2021 - Lab1 - Środowisko IntelliJ, Nowy Projekt, HelloWorld
+# 2022/2023 - Lab1 - Środowisko IntelliJ, Nowy Projekt, HelloWorld
 
 ### Zadanie 1.
 Zainstalowanie IntelliJ

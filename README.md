@@ -1,5 +1,5 @@
 # Zaawansowane Programowanie Obiektowe i Funkcyjne - Java
-## MiNI PW, Zima 2021/2022
+## MiNI PW, Zima 2022/2023
 
 #### Przydatne do poruszania się po środowisku IntelliJ IDEA
 - Sktóry klawiaturowe - https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf

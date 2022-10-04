@@ -1,4 +1,4 @@
-# 2021/2022 - Zadanie 2 - Generyki, pliki, strumienie i wyjątki
+# 2022/2023 - Zadanie 2 - Generyki, pliki, strumienie i wyjątki
 
 Twoim zadaniem jest napisanie trzech klas implementujących metody tak, 
 aby napisane testy jednostkowe wykonały się poprawnie. 

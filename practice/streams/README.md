@@ -1,4 +1,4 @@
-## 2021/2022 - Zadanie ćwiczeniowe - Programowanie strumieniowe 
+## 2022/2023 - Zadanie ćwiczeniowe - Programowanie strumieniowe 
 
 Twoim zadaniem jest napisanie metod operujących na dużych macierzach, które mogą być rozproszonych wierszami (tzw. sharding).  W takim przypadku chcemy mieć dostęp do strumienia wierszy. (np. Spark zapewnia taki dostęp przy pomocy RDD).     
 Wczytaj dołączony plik danych, po rozpakowaniu. Jest to bardzo duży plik więc wczytaj liniami tylko tyle ile udźwignie Twój system (ale aby była to wielokrotność 200 linii). Po namyśle dodałam mniejszy plik subset.csv, można z niego skorzystać.   
@@ -9,7 +9,7 @@ Pozostałe kolumny opisują
 x,y - pozycja osobnika  
 xVel, yVel - prędkość  
 xA, yA - wektor wyrównania  
-xS, yS - decor separacji  
+xS, yS - wektor separacji  
 xC, yC - wektor kohezji  
 nAc - liczba osobników w promieniu wyrównania/kohezji  
 nS - liczba osobników w promieniu separacji  

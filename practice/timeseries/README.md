@@ -1,4 +1,4 @@
-# 2022/2023 - Zadanie 6 - Tablice i dziedziczenie 
+# 2022/2023 - Zadanie 1 - Tablice i dziedziczenie 
 ## Autor: Antoni Sobkowicz
 
 Twoim zadaniem jest napisanie dwóch klas implementujących metody tak, 

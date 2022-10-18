@@ -1,9 +1,9 @@
-package mini.java.lab8.test;
+package mini.java.ap.lab3.test;
 
-import mini.java.lab8.FileDoubleKwantylator;
-import mini.java.lab8.FileObjectKwantylator;
-import mini.java.lab8.Kwantylator;
-import mini.java.lab8.My2DObject;
+import mini.java.ap.lab3.FileDoubleKwantylator;
+import mini.java.ap.lab3.FileObjectKwantylator;
+import mini.java.ap.lab3.Kwantylator;
+import mini.java.ap.lab3.My2DObject;
 
 import java.io.*;
 import java.util.ArrayList;

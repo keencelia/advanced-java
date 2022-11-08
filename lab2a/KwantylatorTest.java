@@ -1,9 +1,9 @@
-package mini.java.lab8.test;
+package mini.java.ap.lab3.test;
 
-import mini.java.lab8.FileDoubleKwantylator;
-import mini.java.lab8.FileObjectKwantylator;
-import mini.java.lab8.Kwantylator;
-import mini.java.lab8.My2DObject;
+import mini.java.ap.lab3.FileDoubleKwantylator;
+import mini.java.ap.lab3.FileObjectKwantylator;
+import mini.java.ap.lab3.Kwantylator;
+import mini.java.ap.lab3.My2DObject;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -33,7 +33,7 @@ public class KwantylatorTest {
     public void integerEvenEquals() {
         var kw1 = new Kwantylator<Integer>(1,2,3,4,5,6);
         int median = kw1.median();
-        assertEquals(median, 3);
+        assertEquals(median, 4);
     }
 
     /***
@@ -73,7 +73,7 @@ public class KwantylatorTest {
         double q90 = kw1.kwantyl(0.9);
 
         assertEquals(q10, 1.24, 0.1);
-        assertEquals(q90, 3.23, 0.1);
+        assertEquals(q90, 4.10, 0.1);
     }
 
     /***
@@ -85,7 +85,7 @@ public class KwantylatorTest {
         String [] data = {"abc", "aac", "xyz", "ala", "ma", "asa", "kot", "qwe", "tyu", "aaa"};
         var kw1 = new Kwantylator<String>(data);
         String median = kw1.median();
-        assertEquals(median, "asa");
+        assertEquals(median, "kot");
     }
 
     /***
@@ -162,8 +162,8 @@ public class KwantylatorTest {
             e.printStackTrace();
         }
 
-        assertEquals(med.getX1(), 0.018, 0.001);
-        assertEquals(med.getX2(), -1.058, 0.001);
+        assertEquals(med.getX1(), 0.024, 0.001);
+        assertEquals(med.getX2(), 0.547, 0.001);
 
     }
 
@@ -215,7 +215,7 @@ public class KwantylatorTest {
         assertEquals(arr.get(6), 103.3, 0.3);
         assertEquals(arr.get(7), 106.2, 0.3);
         assertEquals(arr.get(8), 110.0, 0.3);
-        assertEquals(arr.get(9), 124.1, 0.3);
+        assertEquals(arr.get(9), 124.69, 0.3);
 
     }
 
